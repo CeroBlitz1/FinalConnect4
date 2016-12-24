@@ -1,0 +1,8 @@
+﻿to do:
+
+graphic update
+UI
+AI
+
+FORM1 line 80 --> turn on/off AI
+FORM1 line 49 --> change board size
